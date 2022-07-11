@@ -6,5 +6,5 @@ In this project the application take the user voice, then convert it to text, Af
 
 
 
-https://user-images.githubusercontent.com/86074458/125906377-5e8bcad0-b90e-4bcc-aa4a-e3f5e10d7731.mp4
+
 
